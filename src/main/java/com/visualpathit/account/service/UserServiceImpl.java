@@ -1,8 +1,8 @@
-package com.visualpathit.account.service;
+package com.vcube.account.service;
 
-import com.visualpathit.account.model.User;
-import com.visualpathit.account.repository.RoleRepository;
-import com.visualpathit.account.repository.UserRepository;
+import com.vcube.account.model.User;
+import com.vcube.account.repository.RoleRepository;
+import com.vcube.account.repository.UserRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
