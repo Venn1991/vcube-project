@@ -1,11 +1,11 @@
-package com.visualpathit.account.controller;
+package com.vcube.account.controller;
 
-import com.visualpathit.account.model.User;
-import com.visualpathit.account.service.ProducerService;
-import com.visualpathit.account.service.SecurityService;
-import com.visualpathit.account.service.UserService;
-import com.visualpathit.account.utils.MemcachedUtils;
-import com.visualpathit.account.validator.UserValidator;
+import com.vcube.account.model.User;
+import com.vcube.account.service.ProducerService;
+import com.vcube.account.service.SecurityService;
+import com.vcube.account.service.UserService;
+import com.vcube.account.utils.MemcachedUtils;
+import com.vcube.account.validator.UserValidator;
 
 import java.util.List;
 import java.util.UUID;
