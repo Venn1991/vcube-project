@@ -1,8 +1,8 @@
-package com.visualpathit.account.repository;
+package com.vcube.account.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.visualpathit.account.model.Role;
+import com.vcube.account.model.Role;
 
 public interface RoleRepository extends JpaRepository<Role, Long>{
 }
