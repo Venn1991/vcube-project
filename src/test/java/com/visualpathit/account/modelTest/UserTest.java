@@ -1,4 +1,4 @@
-package com.visualpathit.account.modelTest;
+package com.vcube.account.modelTest;
 
 import junit.framework.Assert;
 
@@ -9,8 +9,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.visualpathit.account.model.Role;
-import com.visualpathit.account.model.User;
+import com.vcube.account.model.Role;
+import com.vcube.account.model.User;
 
 /** {@author waheedk} !*/
 public class UserTest {
