@@ -1,4 +1,4 @@
-package com.visualpathit.account.service;
+package com.vcube.account.service;
 
 public interface ProducerService {
 
