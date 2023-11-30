@@ -1,4 +1,4 @@
-package com.visualpathit.account.utils;
+package com.vcube.account.utils;
 
 import java.net.InetSocketAddress;
 
