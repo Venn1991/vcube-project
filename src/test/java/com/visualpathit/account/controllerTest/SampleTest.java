@@ -1,4 +1,4 @@
-package com.vcubepath.account.controllerTest;
+package com.vcube.account.controllerTest;
 
 import static org.junit.Assert.assertEquals;
 
