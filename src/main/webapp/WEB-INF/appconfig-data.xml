@@ -49,6 +49,6 @@
       repository interfaces
     -->
 
-    <jpa:repositories base-package="com.visualpathit.account.repository"/>
+    <jpa:repositories base-package="com.vcube.account.repository"/>
     </beans>
 
