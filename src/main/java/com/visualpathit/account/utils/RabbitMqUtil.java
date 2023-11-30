@@ -1,4 +1,4 @@
-package com.visualpathit.account.utils;
+package com.vcube.account.utils;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
