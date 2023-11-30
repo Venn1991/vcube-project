@@ -1,4 +1,4 @@
-package com.visualpathit.account.model;
+package com.vcube.account.model;
 
 
 import javax.persistence.*;
